@@ -92,6 +92,8 @@ ENV/
 # PyCharm
 .idea
 
+# Data
+data/
 
 src/conda_devenv/_version.py
 .pytest_cache
